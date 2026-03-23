@@ -380,7 +380,7 @@ function drawAuthor() {
   textFont(button_font);
   textSize(14);
   textAlign(LEFT, BASELINE);
-  text('От @khlulhloo', 20, height - 10);
+  text('От Кхлулхлу', 20, height - 10);
 }
 // ─── gif1 ──────────────────────────────────────────────────────────────────
 
